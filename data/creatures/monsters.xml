@@ -42,7 +42,6 @@
     <monster name="Animated Ogre Brute" looktype="857" />
     <monster name="Animated Ogre Savage" looktype="858" />
     <monster name="Animated Ogre Shaman" looktype="859" />
-    <monster name="Animated Stone Rhino" looktype="936" />
     <monster name="Animated Rotworm" looktype="26" />
     <monster name="Animated Skunk" looktype="106" />
     <monster name="Animated Snowman" looktype="1159" />
@@ -51,7 +50,6 @@
     <monster name="Animated Sword" looktype="0" />
     <monster name="Annihilon" looktype="12" lookhead="3" lookbody="9" looklegs="77" lookfeet="77" />
     <monster name="Anomaly" looktype="876" lookhead="38" lookbody="79" looklegs="76" lookfeet="79" lookaddons="1" />
-    <monster name="Arachir the Ancient One" looktype="287" />
     <monster name="Apocalypse" looktype="12" lookhead="38" lookbody="114" looklegs="0" lookfeet="94" lookaddons="0" />
     <monster name="Apprentice Sheng" looktype="23" />
     <monster name="Arachir The Ancient One" looktype="287" />
@@ -93,7 +91,6 @@
     <monster name="Bat" looktype="122" />
     <monster name="Battlemaster Zunzu" looktype="343" />
     <monster name="Bazir" looktype="35" />
-    <monster name="Bashmu" looktype="1408" lookbody="50" looklegs="42" lookfeet="79" lookaddons="3" />
     <monster name="Bear" looktype="16" />
     <monster name="Beast Hulking Prehemoth" looktype="1553" lookhead="85" lookbody="1" looklegs="85" lookfeet="105" lookaddons="3" />
     <monster name="Beast Gore Horn" looktype="1548" />
@@ -987,7 +984,6 @@
     <monster name="Nightmare Of Gaz'Haragoth" looktype="587" />
     <monster name="Nightmare Scion" looktype="321" />
     <monster name="Nightmare Tendril" looktype="681" />
-    <monster name="Nightmare" looktype="245" />
     <monster name="Nightmarish Dream" looktype="78" />
     <monster name="Nightstalker" looktype="320" />
     <monster name="Noble Lion" looktype="570" />
@@ -1276,7 +1272,6 @@
     <monster name="Soul Reaper" looktype="878" />
     <monster name="Soul Scourge" looktype="300" />
     <monster name="Soul Sphere" looktype="979" />
-    <monster name="Soul-Broken Harbinger" looktype="1137" lookhead="124" lookbody="31" looklegs="17" lookfeet="81" lookaddons="3" />
     <monster name="Soulcatcher" looktype="0" />
     <monster name="Souleater" looktype="355" />
     <monster name="Soulless Minion" looktype="68" />
@@ -1438,7 +1433,6 @@
     <monster name="The Rage" looktype="876" lookhead="85" lookbody="114" looklegs="19" />
     <monster name="The Ravager" looktype="91" />
     <monster name="The Remorseless Corruptor" looktype="875" lookhead="77" lookbody="98" looklegs="3" lookfeet="85" lookaddons="3" />
-    <monster name="The Sandking Fake" looktype="1013" />
     <monster name="The Sandking" looktype="1013" />
     <monster name="The Sandking Fake" looktype="1013" />
     <monster name="The Scion Of Havoc" looktype="875" lookhead="94" lookbody="79" looklegs="79" lookfeet="79" lookaddons="3" />
